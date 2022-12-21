@@ -1,0 +1,9 @@
+# Booking with Huzaifa
+#### Video Demo: https://www.youtube.com/watch?v=gOiNm89_Caw
+### Description:
+#### Booking with Huzaifa is a project I did during CS50. Its major use is to book appointments with your teacher on parent teacher meeting and its sub purpose is also to register for your IGCSE Board examinations. It first asks for personal information such as name, nationality, date of birth and emiartes ID number and then it prints out all the information entered for the user to review and decide if they wanna edit some information. Then it prompts the user for which subject teacher they want to book an appointment for, upon selecting the subject, all the teachers teaching that subject pop up. After that it asks for the of the appointment, the computer checks if the slot is available or not. After this it asks if the person want to register their child for IGCSE Board examinations and if yes then asks userr for bank/card info to pay for it.
+#### I have also validated alot of stuff like full name should be 2 words or more, date should be valid (ex: month cannot go above 12 and date cannot go above 31), etc
+### Why I made this program?
+#### One reason for creating a booking program in Python for teachers was to streamline the process of scheduling and managing classroom bookings. This could include the ability to schedule recurring bookings, view availability, and send notifications to teachers when a booking request has been made or approved. The program could also allow teachers to easily view and update their schedules, as well as track the status of their booking requests. This could help to reduce confusion and improve efficiency by automating many of the tasks involved in managing parent teacher meeting day bookings.
+### Requirements
+#### It requires 2 libaries to be installed before using it, art and datetime
